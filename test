@@ -1,0 +1,3 @@
+gcc main.c cipher.c ecluid_thm.c add_cipher.c mul_cipher.c affine_cipher.c auto_cipher.c vigenere_cipher.c random.c sorting.c search.c rbs.c ibs.c ls.c bsort.c ssort.c isort.c qsort.c msort.c gate.c OR.c AND.c NOR.c NAND.c hill_cipher.c
+
+
